@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Movie</string>
+    <string name="search_film">¿Qué películas estás buscando?</string>
+    <string name="title_name">Jorge Chin</string>
+    <string name="program">Programa</string>
+    <string name="movie">Peliculas</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="recommendations">Recomendaciones</string>
+    <string name="wait">Porfavor Espere</string>
+    <string name="showtrailler">Mostrando Trailer</string>
+    <string name="addfavorite">Agregar a Favorito</string>
+    <string name="removefaforite">Remover de favorito</string>
+</resources>

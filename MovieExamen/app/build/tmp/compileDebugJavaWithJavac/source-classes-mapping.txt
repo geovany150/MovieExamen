@@ -1,0 +1,74 @@
+com/jchin/movie/fragment/FragmentFavoriteMovie.java
+ com.jchin.movie.fragment.FragmentFavoriteMovie
+com/jchin/movie/retrofit/ResultsTv.java
+ com.jchin.movie.retrofit.ResultsTv
+com/jchin/movie/adapter/ViewPageAdapter.java
+ com.jchin.movie.adapter.ViewPageAdapter
+com/jchin/movie/retrofit/ApiAdapter.java
+ com.jchin.movie.retrofit.ApiAdapter
+com/jchin/movie/realm/RealmHelper.java
+ com.jchin.movie.realm.RealmHelper
+com/jchin/movie/utils/BottomBarBehavior.java
+ com.jchin.movie.utils.BottomBarBehavior
+com/jchin/movie/fragment/FragmentTV.java
+ com.jchin.movie.fragment.FragmentTV
+ com.jchin.movie.fragment.FragmentTV$1
+ com.jchin.movie.fragment.FragmentTV$2
+ com.jchin.movie.fragment.FragmentTV$3
+ com.jchin.movie.fragment.FragmentTV$4
+com/jchin/movie/BuildConfig.java
+ com.jchin.movie.BuildConfig
+com/jchin/movie/fragment/FragmentFavorite.java
+ com.jchin.movie.fragment.FragmentFavorite
+com/jchin/movie/fragment/FragmentFavoriteTv.java
+ com.jchin.movie.fragment.FragmentFavoriteTv
+com/jchin/movie/model/ModelTV.java
+ com.jchin.movie.model.ModelTV
+com/jchin/movie/model/ModelMovie.java
+ com.jchin.movie.model.ModelMovie
+com/jchin/movie/adapter/TvHorizontalAdapter.java
+ com.jchin.movie.adapter.TvHorizontalAdapter
+ com.jchin.movie.adapter.TvHorizontalAdapter$1
+ com.jchin.movie.adapter.TvHorizontalAdapter$ViewHolder
+ com.jchin.movie.adapter.TvHorizontalAdapter$onSelectData
+com/jchin/movie/adapter/MovieAdapter.java
+ com.jchin.movie.adapter.MovieAdapter
+ com.jchin.movie.adapter.MovieAdapter$1
+ com.jchin.movie.adapter.MovieAdapter$ViewHolder
+ com.jchin.movie.adapter.MovieAdapter$onSelectData
+com/jchin/movie/fragment/FragmentMovie.java
+ com.jchin.movie.fragment.FragmentMovie
+ com.jchin.movie.fragment.FragmentMovie$1
+ com.jchin.movie.fragment.FragmentMovie$2
+ com.jchin.movie.fragment.FragmentMovie$3
+ com.jchin.movie.fragment.FragmentMovie$4
+com/jchin/movie/networking/ApiEndpoint.java
+ com.jchin.movie.networking.ApiEndpoint
+com/jchin/movie/retrofit/ModelTrailer.java
+ com.jchin.movie.retrofit.ModelTrailer
+ com.jchin.movie.retrofit.ModelTrailer$Result
+com/jchin/movie/TelevisionActivity.java
+ com.jchin.movie.TelevisionActivity
+ com.jchin.movie.TelevisionActivity$1
+com/jchin/movie/retrofit/ApiService.java
+ com.jchin.movie.retrofit.ApiService
+com/jchin/movie/MovieActivity.java
+ com.jchin.movie.MovieActivity
+ com.jchin.movie.MovieActivity$1
+com/jchin/movie/model/ModelTrailer.java
+ com.jchin.movie.model.ModelTrailer
+com/jchin/movie/adapter/TvAdapter.java
+ com.jchin.movie.adapter.TvAdapter
+ com.jchin.movie.adapter.TvAdapter$1
+ com.jchin.movie.adapter.TvAdapter$ViewHolder
+ com.jchin.movie.adapter.TvAdapter$onSelectData
+com/jchin/movie/retrofit/Result.java
+ com.jchin.movie.retrofit.Result
+com/jchin/movie/adapter/MovieHorizontalAdapter.java
+ com.jchin.movie.adapter.MovieHorizontalAdapter
+ com.jchin.movie.adapter.MovieHorizontalAdapter$1
+ com.jchin.movie.adapter.MovieHorizontalAdapter$ViewHolder
+ com.jchin.movie.adapter.MovieHorizontalAdapter$onSelectData
+com/jchin/movie/MainActivity.java
+ com.jchin.movie.MainActivity
+ com.jchin.movie.MainActivity$1

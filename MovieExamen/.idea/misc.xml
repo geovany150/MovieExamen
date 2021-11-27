@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_favorite_film.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_film.xml" value="0.18" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/toolbar_main.xml" value="0.1" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/bg_overlay.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/bg_rounded.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/bg_search.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/design_header.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/ic_favorite.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/ic_favorite_border.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/ic_image.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/drawable/ic_share.xml" value="0.2203125" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/activity_detail.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/fragment_favorite_film.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/fragment_film.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/list_item_film.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/EJERCICIO/TheMovieDB-master1/Movie Catalogue/app/src/main/res/layout/list_item_trailer.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
